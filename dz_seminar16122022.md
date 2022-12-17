@@ -14,3 +14,11 @@
 
 *4. git commit -m "message"*
 
+*5. git log*
+
+*6. git checkout*
+
+*7. git checkout master"
+
+*8. git diff"
+
