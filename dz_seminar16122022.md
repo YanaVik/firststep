@@ -18,9 +18,13 @@
 
 *6. git checkout*
 
-*7. git checkout master"
+*7. git checkout master*
 
-*8. git diff"
+*8. git diff*
+
+*9. git branch*
+
+*10. git branch branch_name*
 
 ## **Описание команд**
 
